@@ -6,5 +6,6 @@ public class C31 {
         String m2(){
             return "m2";
         }
+        String mB() { return "mB"; }
 
 }
